@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    data_builder (0.0.1)
+      ffaker
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffaker (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  data_builder!
